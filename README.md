@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaacob34" alt="jaacob34" /></a> </p>
 
-- 🔭 I’m currently working on **developing my frontend developing skills**
+- 🔭 I’m currently working on **developing my frontend skills**
 
 - 🌱 I’m currently learning **React, CSS**
 
